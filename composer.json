@@ -1,0 +1,12 @@
+{
+    "name": "stefangeorgescu/final-destination",
+    "description": "Class for following short-URLs and redirects until reaching the final destination URL and cleaning it up",
+    "authors": [
+        {
+            "name": "Stefan Georgescu",
+            "email": "stefangeorgescu2007@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
