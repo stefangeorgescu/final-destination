@@ -8,7 +8,7 @@ class FinalDestination
 
     protected $url, $redirect_url;
     protected $times_redirected = 0;
-    protected $html;
+    public $html;
     protected $config = [
         'max_redirects' => 10,
         'clean_destination' => true,
